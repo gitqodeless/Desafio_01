@@ -6,7 +6,8 @@ namespace Desafio_01
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("HELLO WORLD");
+            Console.ReadKey();
         }
     }
 }
